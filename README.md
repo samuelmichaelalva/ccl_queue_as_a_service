@@ -1,4 +1,4 @@
-# ⚡ QueuePulse — Queue-as-a-Service (QaaS) & Cloud Architecture
+# QueuePulse — Queue-as-a-Service (QaaS) & Cloud Architecture
 
 > A high-performance, real-time Queue-as-a-Service (QaaS) platform powered by Node.js, Express, Socket.IO, and React, featuring an analytical $M/M/c$ queuing theory and dynamic wait-time estimation engine, coupled with an interactive multi-stage AWS cloud infrastructure evolution simulator.
 
@@ -476,7 +476,4 @@ This project was developed as a collaborative academic cloud computing and virtu
 | **Sidra Zulfikar Dingankar** | **Research, Specifications & Cloud Lab Work**<br>• Collaborated on queuing theory methodology research and healthcare queue optimization requirements.<br>• Assisted in defining role-based workflow specifications and multi-branch redirection parameters.<br>• Participated in execution, testing, and policy formulation for the Virtualization and AWS IAM lab series. |
 | **Alan Joseph** | **Testing, Quality Assurance & Cloud Lab Work**<br>• Participated in manual testing across customer, staff, and admin workflows to validate state consistency.<br>• Assisted in empirical verification of AWS IAM permission boundaries and Type-1/Type-2 virtualization tasks.<br>• Contributed to documentation review, technical reporting, and system verification walkthroughs. |
 
----
 
-## 📄 License
-This project is open-source under the [MIT License](LICENSE). Built for academic evaluation in Cloud Computing & Virtualization architectures.
